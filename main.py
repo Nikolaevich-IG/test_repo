@@ -1,1 +1,2 @@
-print("Git lessons")
+a = "basic commands"
+print("Git lessons - " + a)
