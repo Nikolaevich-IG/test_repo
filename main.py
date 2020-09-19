@@ -6,3 +6,5 @@ print("use hash")
 print("Create new branch 'test'")
 # branch test
 print("new changes on branch test")
+
+print("prepare repo to move on GitHub")
