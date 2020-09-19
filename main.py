@@ -10,3 +10,4 @@ print("new changes on branch test")
 print("prepare repo to move on GitHub")
 
 print("New commit in test_repo on GitHub ")
+print("new changes on name")
